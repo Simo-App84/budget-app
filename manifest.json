@@ -2,7 +2,7 @@
   "name": "Budget Personale",
   "short_name": "Budget",
   "description": "Tieni traccia delle tue spese e entrate mensili",
-  "start_url": "/",
+  "start_url": "/budget-app/",
   "display": "standalone",
   "background_color": "#0f0f1a",
   "theme_color": "#1a1a2e",
